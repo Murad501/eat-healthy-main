@@ -121,6 +121,7 @@
     margin-bottom: 30px;
 }
 .people {
+    text-align: center;
     border-radius: 20px;
     box-shadow: 1px 1px 20px rgb(220, 220, 220) ;
     display: flex;
@@ -152,4 +153,5 @@ footer {
     color: #fff;
     padding-bottom: 115px;
 }
+
 
